@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.1"
+  },
+  "scripts": {
+    "startDev": "nodemon server.js"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "chat-application",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zafaruralov/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zafaruralov/test/issues"
+  },
+  "homepage": "https://github.com/zafaruralov/test#readme"
+}
